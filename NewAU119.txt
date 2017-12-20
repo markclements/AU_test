@@ -1,0 +1,26 @@
+hypothesis                raw          k.3         
+tree acno                 0.00 (0.00)  0.00 (0.00)
+tree allphyfullbest      54.92 (0.50) 78.54 (0.31)
+tree anthophyte           0.02 (0.01)  0.08 (0.02)
+tree cycads_angios       14.89 (0.36) 27.66 (0.34)
+tree ginkgo_angios        1.15 (0.11)  3.88 (0.57)
+tree ginkgo_cycads        0.09 (0.03)  0.54 (0.31)
+tree ginkgothencycads     0.17 (0.04)  4.21 (2.14)
+tree gnecup               0.34 (0.06)  1.91 (0.36)
+tree gnesister            0.09 (0.03)  0.55 (0.26)
+tree gnetifer             0.09 (0.03)  1.39 (0.69)
+tree gymnomonophyly      28.24 (0.45) 43.48 (0.42)
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
